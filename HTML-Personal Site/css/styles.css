@@ -1,0 +1,26 @@
+
+  head{
+    font-family:Grandstander,verdana,Arial,sans-serif;
+  }
+  body {
+    background-color: #e3fdfd;
+    text-align:center;
+    font-family:Grandstander,verdana,Arial,sans-serif;
+  }
+  table{
+    text-align: center;
+  }
+  hr{
+    border-color: black;
+    border-style: none;
+    border-top-style:dotted;
+    border-width:3px;
+    width:50%;
+    height: 0;
+  }
+  .itemimage{
+    height:150px;
+  }
+  .fullimage{
+    bottom: 0;
+  }
